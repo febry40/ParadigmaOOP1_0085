@@ -15,17 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Composition.cpp">
+    <ClCompile Include="Asosiasi.cpp">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="jantung.h">
-      <Filter>Header Files</Filter>
-    </ClCompile>
-    <ClCompile Include="manusia.h">
-      <Filter>Header Files</Filter>
-    </ClCompile>
-    <ClCompile Include="mineM.cpp">
-      <Filter>Header Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

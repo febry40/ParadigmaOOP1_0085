@@ -18,10 +18,10 @@
     <ClCompile Include="Aggregation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="AggAnak.cpp">
+    <ClCompile Include="anak.h">
       <Filter>Header Files</Filter>
     </ClCompile>
-    <ClCompile Include="AggIbu.cpp">
+    <ClCompile Include="ibu.h">
       <Filter>Header Files</Filter>
     </ClCompile>
     <ClCompile Include="AggIbu&amp;Anak.cpp">

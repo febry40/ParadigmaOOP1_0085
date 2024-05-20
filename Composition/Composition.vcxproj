@@ -127,9 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CompJantung&amp;Manusia.cpp" />
-    <ClCompile Include="CompJantung.cpp" />
-    <ClCompile Include="CompManusia.cpp" />
+    <ClCompile Include="mineM.cpp" />
+    <ClCompile Include="jantung.h" />
+    <ClCompile Include="manusia.h" />
     <ClCompile Include="Composition.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

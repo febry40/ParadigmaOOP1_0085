@@ -24,5 +24,8 @@
     <ClCompile Include="AggIbu.cpp">
       <Filter>Header Files</Filter>
     </ClCompile>
+    <ClCompile Include="Ibu&amp;Anak.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

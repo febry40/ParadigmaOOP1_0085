@@ -1,4 +1,5 @@
-
+#ifndef IBU_H
+#define IBU_H
 
 class ibu {
 public:
@@ -22,4 +23,6 @@ void ibu::cetakAnak() {
 	for (auto& a : daftar_anak) {
 		cout << a->nama << "\n";
 	}
+	cout << endl;
 }
+#endif

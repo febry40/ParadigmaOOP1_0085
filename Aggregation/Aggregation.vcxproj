@@ -130,6 +130,7 @@
     <ClCompile Include="AggIbu.cpp" />
     <ClCompile Include="AggAnak.cpp" />
     <ClCompile Include="Aggregation.cpp" />
+    <ClCompile Include="Ibu&amp;Anak.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -127,7 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Aggregasi.cpp" />
+    <ClCompile Include="AggIbu.cpp" />
+    <ClCompile Include="AggAnak.cpp" />
     <ClCompile Include="Aggregation.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

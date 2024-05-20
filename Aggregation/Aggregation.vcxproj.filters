@@ -18,7 +18,10 @@
     <ClCompile Include="Aggregation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Aggregasi.cpp">
+    <ClCompile Include="AggAnak.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AggIbu.cpp">
       <Filter>Header Files</Filter>
     </ClCompile>
   </ItemGroup>

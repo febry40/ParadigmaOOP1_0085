@@ -1,3 +1,7 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
 #ifndef ANAK_H
 #define ANAK_H
 
@@ -11,5 +15,5 @@ public:
 	~anak() {
 		cout << "Anak \"" << nama << "\" tidak ada\n";
 	}
-		
 };
+#endif

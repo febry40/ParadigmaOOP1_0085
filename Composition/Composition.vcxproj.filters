@@ -15,16 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Aggregation.cpp">
+    <ClCompile Include="Composition.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="AggAnak.cpp">
-      <Filter>Header Files</Filter>
-    </ClCompile>
-    <ClCompile Include="AggIbu.cpp">
-      <Filter>Header Files</Filter>
-    </ClCompile>
-    <ClCompile Include="AggIbu&amp;Anak.cpp">
+    <ClCompile Include="CompJantung.cpp">
       <Filter>Header Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{e1b58aac-77f0-4502-bb16-7e2eea77fd48}</ProjectGuid>
-    <RootNamespace>Aggregation</RootNamespace>
+    <ProjectGuid>{61349e97-7eda-413c-b147-8e37992fc451}</ProjectGuid>
+    <RootNamespace>Composition</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,10 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="AggIbu.cpp" />
-    <ClCompile Include="AggAnak.cpp" />
-    <ClCompile Include="Aggregation.cpp" />
-    <ClCompile Include="AggIbu&amp;Anak.cpp" />
+    <ClCompile Include="CompJantung.cpp" />
+    <ClCompile Include="Composition.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,6 +1,4 @@
-#include <iostream>
-#include <string>
-using namespace std;
+
 
 class ibu {
 public:
@@ -16,3 +14,6 @@ public:
 	void tambahAnak(anak*);
 	void cetakAnak();
 };
+void ibu::tambahAnak(anak* pAnak) {
+	daftar_anak, push_back(pAnak);
+}

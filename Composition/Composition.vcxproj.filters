@@ -24,5 +24,8 @@
     <ClCompile Include="CompManusia.cpp">
       <Filter>Header Files</Filter>
     </ClCompile>
+    <ClCompile Include="CompJantung&amp;Manusia.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

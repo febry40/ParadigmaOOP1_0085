@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CompJantung&amp;Manusia.cpp" />
     <ClCompile Include="CompJantung.cpp" />
     <ClCompile Include="CompManusia.cpp" />
     <ClCompile Include="Composition.cpp" />
